@@ -1,2 +1,2 @@
-# philosopy
+# philosophy
 Бытовые заметки по философии
